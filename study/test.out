@@ -1,0 +1,26 @@
+abctotal 104
+drwxr-xr-x 2 ndk users  4096 11月 26 14:22 .
+drwxr-xr-x 4 ndk users 12288 11月 26 13:24 ..
+-rw-r--r-- 1 ndk users   131 11月 25 09:47 cpick-file.out
+-rw-r--r-- 1 ndk users    90 11月 24 16:03 def-argv.py
+-rw-r--r-- 1 ndk users   191 11月 25 09:35 file_test.py
+-rw-r--r-- 1 ndk users    58 11月 18 15:46 for-statement.py
+-rw-r--r-- 1 ndk users   200 11月 26 13:38 for-two.py
+-rw-r--r-- 1 ndk users    66 11月 26 13:31 for-two.py~
+-rw-r--r-- 1 ndk users   115 11月 24 15:58 global-test.py
+-rw-r--r-- 1 ndk users   163 11月 18 15:42 if-statements.py
+-rw-r--r-- 1 ndk users   254 11月 26 13:55 list_test.py
+-rw-r--r-- 1 ndk users    13 11月 26 13:44 list_test.py~
+-rw-r--r-- 1 ndk users    99 11月 24 16:28 module-test.py
+-rw-r--r-- 1 ndk users   100 11月 24 16:36 mymodule.py
+-rw-r--r-- 1 ndk users   340 11月 24 16:39 mymodule.pyc
+-rw-r--r-- 1 ndk users   277 11月 25 15:21 output-format.py
+-rw-r--r-- 1 ndk users   338 11月 25 09:48 pickle-test.py
+-rw-r--r-- 1 ndk users   122 11月 24 16:20 python-doc.py
+-rw-r--r-- 1 ndk users    76 11月 26 14:22 read_file_channel.py
+-rw-r--r-- 1 ndk users     0 11月 26 14:20 read_file_channel.py~
+-rw-r--r-- 1 ndk users   123 11月 24 16:13 return-argv.py
+-rw-r--r-- 1 ndk users   110 11月 18 15:38 show-env.py
+-rw-r--r-- 1 ndk users     3 11月 25 09:36 test.out
+-rw-r--r-- 1 ndk users   232 11月 18 15:59 use-function.py
+-rw-r--r-- 1 ndk users    87 11月 24 16:38 use-mymodule.py
